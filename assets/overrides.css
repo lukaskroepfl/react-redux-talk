@@ -1,0 +1,28 @@
+.playground .playgroundCode {
+    font-size: 1.0vw !important;
+    flex-grow: 2 !important;
+}
+
+.playground .playgroundPreview {
+    font-size: 1.5vw !important;
+}
+
+.playground {
+    align-items: flex-start !important;
+}
+
+.prism-code {
+    font-size: 1.75rem !important;
+}
+
+.spectacle-content > h3 {
+    margin-bottom: 3rem;
+}
+
+.spectacle-content > h5 {
+    margin-bottom: 1rem;
+}
+
+li:not(:last-child) {
+    margin-bottom: 1.5rem;
+}
