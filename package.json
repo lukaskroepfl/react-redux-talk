@@ -22,7 +22,7 @@
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-live": "^1.10.1",
-    "spectacle": "^4.0.0",
+    "spectacle": "^4.2.2",
     "spectacle-renderer": "^0.0.3"
   },
   "devDependencies": {

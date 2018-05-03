@@ -27,6 +27,7 @@ export default (
     </Heading>
 
     <List>
+      <ListItem>Bitmovin</ListItem>
       <ListItem>Twitter (mobile site)</ListItem>
       <ListItem>Instagram (mobile app)</ListItem>
       <ListItem>Reddit (mobile site)</ListItem>

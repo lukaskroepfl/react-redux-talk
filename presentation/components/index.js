@@ -12,8 +12,6 @@ import StateExample from './StateExample';
 import StateExplanation from './StateExplanation';
 import ComponentLifecycle from './ComponentLifecycle';
 import RenderLogic from './RenderLogic';
-import RefsExample from './RefsExample';
-import RenderingLists from './RenderingLists';
 import ParentChildCommunication from './ParentChildCommunication';
 import ContainerPresentational from './ContainerPresentational';
 
@@ -32,8 +30,6 @@ export default [
   StateExplanation,
   RenderLogic,
   ComponentLifecycle,
-  RefsExample,
-  RenderingLists,
   ParentChildCommunication,
   ContainerPresentational
 ];

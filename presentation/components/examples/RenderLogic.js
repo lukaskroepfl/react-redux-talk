@@ -1,7 +1,8 @@
 class ParentComponent extends Component {
   render() {
     // 1) Extract values from props and state
-    const {a, b, someBoolean, someList} = this.props;
+    const {someBoolean, someList} = this.props;
+    const {a, b} = this.state;
 
     // 2) Render any dependent items into temporary variables,
     //    such as conditional components or lists
