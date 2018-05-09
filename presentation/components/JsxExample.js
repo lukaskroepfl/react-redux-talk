@@ -26,7 +26,7 @@ import {
 import jsxExample from 'raw-loader!./examples/JsxExample';
 
 export default (
-  <Slide bgColor="primary" align="center top" maxWidth="1400px" margin={20}>
+  <Slide bgColor="primary" maxWidth="1400px" margin={20}>
     <Heading textColor="black" size={3}>
       JSX Syntax
     </Heading>

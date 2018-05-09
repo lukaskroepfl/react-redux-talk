@@ -25,7 +25,7 @@ import {
 import stateExample from 'raw-loader!./examples/StateExample';
 
 export default (
-  <Slide bgColor="primary" align="center top" maxWidth="1400px" margin={20}>
+  <Slide bgColor="primary" maxWidth="1400px" margin={20}>
     <Heading textColor="black" size={3}>
       Using Component State
     </Heading>

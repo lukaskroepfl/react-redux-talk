@@ -26,7 +26,7 @@ import propsExample from 'raw-loader!./examples/PropsExample';
 import propTypes from 'raw-loader!./examples/PropTypes.txt';
 
 export default (
-  <Slide bgColor="primary" align="center top" maxWidth="1400px" margin={20}>
+  <Slide bgColor="primary" maxWidth="1400px" margin={20}>
     <Heading textColor="black" size={3}>
       Props and PropTypes
     </Heading>
@@ -53,7 +53,6 @@ export default (
             serve as documentation for a component.
           </ListItem>
         </List>
-        <CodePane lang="js" source={propTypes} />
       </Fill>
     </Layout>
   </Slide>

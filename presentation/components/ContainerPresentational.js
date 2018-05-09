@@ -25,7 +25,7 @@ import {
 import containerExample from 'raw-loader!./examples/ContainerPresentationalExample';
 
 export default (
-  <Slide bgColor="primary" align="center top" maxWidth="1400px">
+  <Slide bgColor="primary" maxWidth="1400px">
     <Heading textColor="black" size={3}>
       Container/Presentational Components
     </Heading>
